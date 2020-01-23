@@ -1,6 +1,6 @@
-# Kubeshop
+# Kubeflix
 
-kubeflix is a streaming service. And this repo contains all the services that make up the kubeshop stack. The main purpose of this project is to learn kubernetes and microservices in a real world scenario and what I will learn on this journey I will share with world. Its basically me thinkinh out loud.
+kubeflix is a streaming service. And this repo contains all the services that make up the kubeflix stack. The main purpose of this project is to learn kubernetes and microservices in a real world scenario and what I will learn on this journey I will share with world. Its basically me thinkinh out loud.
 
 ## syllabus
 
