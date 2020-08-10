@@ -23,3 +23,7 @@ kubeflix is a streaming service. And this repo contains all the services that ma
 9. Production ready k8s microservice(observability, tls, secrets/config injection...)
 
 10. The Kubernetes Developer(Building platforms on top of kubernetes)
+
+## supporting cast
+
+1. pace.dev
